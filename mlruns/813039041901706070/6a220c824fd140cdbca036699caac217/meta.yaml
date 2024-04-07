@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/6a220c824fd140cdbca036699caac217/artifacts
+end_time: 1712524037054
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 6a220c824fd140cdbca036699caac217
+run_name: able-kite-334
+run_uuid: 6a220c824fd140cdbca036699caac217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524035813
+status: 3
+tags: []
+user_id: dj

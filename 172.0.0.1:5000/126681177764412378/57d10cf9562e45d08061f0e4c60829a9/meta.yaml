@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/57d10cf9562e45d08061f0e4c60829a9/artifacts
+end_time: 1712507846251
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 57d10cf9562e45d08061f0e4c60829a9
+run_name: bemused-turtle-814
+run_uuid: 57d10cf9562e45d08061f0e4c60829a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507845183
+status: 3
+tags: []
+user_id: dj

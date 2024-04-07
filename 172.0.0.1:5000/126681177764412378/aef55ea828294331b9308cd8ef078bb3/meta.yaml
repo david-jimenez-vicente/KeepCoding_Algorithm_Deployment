@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/aef55ea828294331b9308cd8ef078bb3/artifacts
+end_time: 1712509210797
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: aef55ea828294331b9308cd8ef078bb3
+run_name: abrasive-rook-67
+run_uuid: aef55ea828294331b9308cd8ef078bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509209739
+status: 3
+tags: []
+user_id: dj

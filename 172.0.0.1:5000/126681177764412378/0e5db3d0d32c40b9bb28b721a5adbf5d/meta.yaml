@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/0e5db3d0d32c40b9bb28b721a5adbf5d/artifacts
+end_time: 1712508289028
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 0e5db3d0d32c40b9bb28b721a5adbf5d
+run_name: mercurial-skunk-80
+run_uuid: 0e5db3d0d32c40b9bb28b721a5adbf5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508287917
+status: 3
+tags: []
+user_id: dj

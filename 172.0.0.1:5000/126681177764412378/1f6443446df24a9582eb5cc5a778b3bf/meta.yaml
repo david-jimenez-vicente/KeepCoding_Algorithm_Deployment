@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/1f6443446df24a9582eb5cc5a778b3bf/artifacts
+end_time: 1712509381486
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 1f6443446df24a9582eb5cc5a778b3bf
+run_name: bouncy-bass-500
+run_uuid: 1f6443446df24a9582eb5cc5a778b3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509380431
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/0fdf2603c7a54171bdebb809022bdaad/artifacts
+end_time: 1712509216892
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 0fdf2603c7a54171bdebb809022bdaad
+run_name: sassy-dove-284
+run_uuid: 0fdf2603c7a54171bdebb809022bdaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509215864
+status: 3
+tags: []
+user_id: dj

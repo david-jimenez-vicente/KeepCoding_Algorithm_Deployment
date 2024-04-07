@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/35710536853c484686da3e20a8774878/artifacts
+end_time: 1712524031383
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 35710536853c484686da3e20a8774878
+run_name: receptive-finch-891
+run_uuid: 35710536853c484686da3e20a8774878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524030276
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/de8b48847e8846d9b897de201a0ee350/artifacts
+end_time: 1712508281330
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: de8b48847e8846d9b897de201a0ee350
+run_name: nervous-grouse-905
+run_uuid: de8b48847e8846d9b897de201a0ee350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508280237
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/ca04f8dd679540eebc85370a4c4fccb3/artifacts
+end_time: 1712507798704
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: ca04f8dd679540eebc85370a4c4fccb3
+run_name: mercurial-hawk-998
+run_uuid: ca04f8dd679540eebc85370a4c4fccb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507797617
+status: 3
+tags: []
+user_id: dj

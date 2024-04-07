@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/347238938897332170/8678e7a74b1a403e85666acdc122b79f/artifacts
+deleted_time: 1712450460042
+end_time: 1712448896915
+entry_point_name: ''
+experiment_id: '347238938897332170'
+lifecycle_stage: deleted
+run_id: 8678e7a74b1a403e85666acdc122b79f
+run_name: exultant-midge-21
+run_uuid: 8678e7a74b1a403e85666acdc122b79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712448895770
+status: 3
+tags: []
+user_id: dj

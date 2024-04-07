@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/28618214cbe44a68964b384d3217a4a8/artifacts
+end_time: 1712507787002
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 28618214cbe44a68964b384d3217a4a8
+run_name: languid-finch-371
+run_uuid: 28618214cbe44a68964b384d3217a4a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507785946
+status: 3
+tags: []
+user_id: dj

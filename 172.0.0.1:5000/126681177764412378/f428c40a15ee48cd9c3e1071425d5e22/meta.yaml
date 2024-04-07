@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/f428c40a15ee48cd9c3e1071425d5e22/artifacts
+end_time: 1712508599854
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: f428c40a15ee48cd9c3e1071425d5e22
+run_name: efficient-quail-297
+run_uuid: f428c40a15ee48cd9c3e1071425d5e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508598812
+status: 3
+tags: []
+user_id: dj

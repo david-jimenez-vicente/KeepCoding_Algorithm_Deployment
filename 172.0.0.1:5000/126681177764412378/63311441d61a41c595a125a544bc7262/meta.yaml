@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/63311441d61a41c595a125a544bc7262/artifacts
+end_time: 1712507863945
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 63311441d61a41c595a125a544bc7262
+run_name: upset-trout-385
+run_uuid: 63311441d61a41c595a125a544bc7262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507862942
+status: 3
+tags: []
+user_id: dj

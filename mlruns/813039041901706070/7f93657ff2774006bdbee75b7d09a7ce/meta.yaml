@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/7f93657ff2774006bdbee75b7d09a7ce/artifacts
+end_time: 1712524033635
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 7f93657ff2774006bdbee75b7d09a7ce
+run_name: rambunctious-bee-915
+run_uuid: 7f93657ff2774006bdbee75b7d09a7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524032531
+status: 3
+tags: []
+user_id: dj

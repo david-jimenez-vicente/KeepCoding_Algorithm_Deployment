@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/f1569d6232df4ce299ad87d56735514e/artifacts
+end_time: 1712509500758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1569d6232df4ce299ad87d56735514e
+run_name: salty-mare-461
+run_uuid: f1569d6232df4ce299ad87d56735514e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509499499
+status: 3
+tags: []
+user_id: dj

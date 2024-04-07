@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/54aba6720bd64e198d577f5383322f69/artifacts
+end_time: 1712524042831
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 54aba6720bd64e198d577f5383322f69
+run_name: gentle-snail-643
+run_uuid: 54aba6720bd64e198d577f5383322f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524041545
+status: 3
+tags: []
+user_id: dj

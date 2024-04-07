@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/d215a558e6dc45b8b03fbf4772fcdc36/artifacts
+end_time: 1712508270236
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: d215a558e6dc45b8b03fbf4772fcdc36
+run_name: caring-flea-952
+run_uuid: d215a558e6dc45b8b03fbf4772fcdc36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508269134
+status: 3
+tags: []
+user_id: dj

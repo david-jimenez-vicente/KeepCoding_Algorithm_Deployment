@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/d3579754113b4a93800be03437e93750/artifacts
+end_time: 1712509374229
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: d3579754113b4a93800be03437e93750
+run_name: crawling-gull-340
+run_uuid: d3579754113b4a93800be03437e93750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509373214
+status: 3
+tags: []
+user_id: dj

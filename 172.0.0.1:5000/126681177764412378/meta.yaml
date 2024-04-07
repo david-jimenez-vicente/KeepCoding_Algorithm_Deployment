@@ -1,0 +1,6 @@
+artifact_location: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378
+creation_time: 1712507606783
+experiment_id: '126681177764412378'
+last_update_time: 1712507606783
+lifecycle_stage: active
+name: random_forest_experiment

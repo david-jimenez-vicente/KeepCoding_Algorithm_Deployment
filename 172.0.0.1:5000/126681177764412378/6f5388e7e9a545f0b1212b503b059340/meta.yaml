@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/6f5388e7e9a545f0b1212b503b059340/artifacts
+end_time: 1712507779744
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 6f5388e7e9a545f0b1212b503b059340
+run_name: sincere-penguin-227
+run_uuid: 6f5388e7e9a545f0b1212b503b059340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507778708
+status: 3
+tags: []
+user_id: dj

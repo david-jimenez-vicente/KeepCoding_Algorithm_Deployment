@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/347238938897332170/6e92a6c3c7ec47f4b126e5a246fd1ec3/artifacts
+deleted_time: 1712450460042
+end_time: 1712447658907
+entry_point_name: ''
+experiment_id: '347238938897332170'
+lifecycle_stage: deleted
+run_id: 6e92a6c3c7ec47f4b126e5a246fd1ec3
+run_name: dapper-kit-252
+run_uuid: 6e92a6c3c7ec47f4b126e5a246fd1ec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712447657670
+status: 3
+tags: []
+user_id: dj

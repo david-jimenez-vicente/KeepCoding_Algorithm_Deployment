@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/0b32d7e86302446487688b521765347c/artifacts
+end_time: 1712524046442
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 0b32d7e86302446487688b521765347c
+run_name: omniscient-newt-902
+run_uuid: 0b32d7e86302446487688b521765347c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524045218
+status: 3
+tags: []
+user_id: dj

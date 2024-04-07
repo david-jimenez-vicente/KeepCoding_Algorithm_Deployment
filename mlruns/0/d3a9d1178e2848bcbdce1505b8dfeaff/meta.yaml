@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/d3a9d1178e2848bcbdce1505b8dfeaff/artifacts
+end_time: 1712509516176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3a9d1178e2848bcbdce1505b8dfeaff
+run_name: dapper-rook-94
+run_uuid: d3a9d1178e2848bcbdce1505b8dfeaff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509515154
+status: 3
+tags: []
+user_id: dj

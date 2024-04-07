@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/d854b2834c89480798d7b7a9b5a0982d/artifacts
+end_time: 1712507853631
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: d854b2834c89480798d7b7a9b5a0982d
+run_name: bald-fly-193
+run_uuid: d854b2834c89480798d7b7a9b5a0982d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507852596
+status: 3
+tags: []
+user_id: dj

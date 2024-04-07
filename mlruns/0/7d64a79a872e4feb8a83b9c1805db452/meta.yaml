@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/7d64a79a872e4feb8a83b9c1805db452/artifacts
+end_time: 1712509505963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d64a79a872e4feb8a83b9c1805db452
+run_name: incongruous-loon-141
+run_uuid: 7d64a79a872e4feb8a83b9c1805db452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509504919
+status: 3
+tags: []
+user_id: dj

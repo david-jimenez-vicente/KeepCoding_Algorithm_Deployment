@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/98985e6fc2284339a108d59361a9e317/artifacts
+end_time: 1712524044044
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 98985e6fc2284339a108d59361a9e317
+run_name: painted-colt-927
+run_uuid: 98985e6fc2284339a108d59361a9e317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524042833
+status: 3
+tags: []
+user_id: dj

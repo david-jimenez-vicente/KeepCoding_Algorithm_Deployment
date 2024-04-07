@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/3b8401ff6fc04380879b6f9cf67ff322/artifacts
+end_time: 1712509504918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b8401ff6fc04380879b6f9cf67ff322
+run_name: suave-turtle-343
+run_uuid: 3b8401ff6fc04380879b6f9cf67ff322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509503901
+status: 3
+tags: []
+user_id: dj

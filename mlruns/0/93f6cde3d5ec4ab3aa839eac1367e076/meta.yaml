@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/93f6cde3d5ec4ab3aa839eac1367e076/artifacts
+end_time: 1712509507983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93f6cde3d5ec4ab3aa839eac1367e076
+run_name: nebulous-hare-434
+run_uuid: 93f6cde3d5ec4ab3aa839eac1367e076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509506974
+status: 3
+tags: []
+user_id: dj

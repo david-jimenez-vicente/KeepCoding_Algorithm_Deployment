@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/b82ef79ec6414784ba0cd48b8fcb978b/artifacts
+end_time: 1712524030275
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: b82ef79ec6414784ba0cd48b8fcb978b
+run_name: nervous-dog-310
+run_uuid: b82ef79ec6414784ba0cd48b8fcb978b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524029178
+status: 3
+tags: []
+user_id: dj

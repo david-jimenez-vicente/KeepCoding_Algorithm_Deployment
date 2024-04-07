@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/30049f184c5e4af0a7267de50bc72e4a/artifacts
+end_time: 1712509220982
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 30049f184c5e4af0a7267de50bc72e4a
+run_name: welcoming-donkey-91
+run_uuid: 30049f184c5e4af0a7267de50bc72e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509219918
+status: 3
+tags: []
+user_id: dj

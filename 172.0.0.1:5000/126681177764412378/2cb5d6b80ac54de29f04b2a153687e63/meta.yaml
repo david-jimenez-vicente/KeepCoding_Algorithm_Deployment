@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/2cb5d6b80ac54de29f04b2a153687e63/artifacts
+end_time: 1712509383597
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 2cb5d6b80ac54de29f04b2a153687e63
+run_name: rebellious-calf-463
+run_uuid: 2cb5d6b80ac54de29f04b2a153687e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509382531
+status: 3
+tags: []
+user_id: dj

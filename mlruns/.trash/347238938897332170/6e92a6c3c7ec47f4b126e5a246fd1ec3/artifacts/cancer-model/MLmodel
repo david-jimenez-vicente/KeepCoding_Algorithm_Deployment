@@ -1,0 +1,20 @@
+artifact_path: cancer-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.11.1
+model_size_bytes: 30239
+model_uuid: 7a1639c80384481dafbd921983e43152
+run_id: 6e92a6c3c7ec47f4b126e5a246fd1ec3
+utc_time_created: '2024-04-06 23:54:17.676163'

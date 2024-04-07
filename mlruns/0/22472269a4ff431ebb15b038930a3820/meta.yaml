@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/22472269a4ff431ebb15b038930a3820/artifacts
+end_time: 1712509518240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22472269a4ff431ebb15b038930a3820
+run_name: capable-penguin-914
+run_uuid: 22472269a4ff431ebb15b038930a3820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509517198
+status: 3
+tags: []
+user_id: dj

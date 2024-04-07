@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/b6aa61e21a3c4470a0c369a8e3d22e2b/artifacts
+end_time: 1712524032530
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: b6aa61e21a3c4470a0c369a8e3d22e2b
+run_name: luxuriant-fly-897
+run_uuid: b6aa61e21a3c4470a0c369a8e3d22e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524031384
+status: 3
+tags: []
+user_id: dj

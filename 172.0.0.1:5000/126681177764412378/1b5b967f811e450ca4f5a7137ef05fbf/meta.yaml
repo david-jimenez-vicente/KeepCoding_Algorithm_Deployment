@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/1b5b967f811e450ca4f5a7137ef05fbf/artifacts
+end_time: 1712507866035
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 1b5b967f811e450ca4f5a7137ef05fbf
+run_name: trusting-crow-476
+run_uuid: 1b5b967f811e450ca4f5a7137ef05fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507864964
+status: 3
+tags: []
+user_id: dj

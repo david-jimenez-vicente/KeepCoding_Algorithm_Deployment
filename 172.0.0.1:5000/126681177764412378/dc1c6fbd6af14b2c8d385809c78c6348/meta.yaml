@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/dc1c6fbd6af14b2c8d385809c78c6348/artifacts
+end_time: 1712509025755
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: dc1c6fbd6af14b2c8d385809c78c6348
+run_name: abundant-stork-36
+run_uuid: dc1c6fbd6af14b2c8d385809c78c6348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509025016
+status: 4
+tags: []
+user_id: dj

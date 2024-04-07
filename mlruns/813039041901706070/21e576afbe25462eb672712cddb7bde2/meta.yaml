@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/21e576afbe25462eb672712cddb7bde2/artifacts
+end_time: 1712524029177
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 21e576afbe25462eb672712cddb7bde2
+run_name: big-crow-883
+run_uuid: 21e576afbe25462eb672712cddb7bde2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524028027
+status: 3
+tags: []
+user_id: dj

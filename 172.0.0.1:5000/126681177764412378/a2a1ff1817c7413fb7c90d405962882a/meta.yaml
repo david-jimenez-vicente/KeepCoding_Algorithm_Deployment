@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/a2a1ff1817c7413fb7c90d405962882a/artifacts
+end_time: 1712507871219
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: a2a1ff1817c7413fb7c90d405962882a
+run_name: carefree-cow-366
+run_uuid: a2a1ff1817c7413fb7c90d405962882a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507870167
+status: 3
+tags: []
+user_id: dj

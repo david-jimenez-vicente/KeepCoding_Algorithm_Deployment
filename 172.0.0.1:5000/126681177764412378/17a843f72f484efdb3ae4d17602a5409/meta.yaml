@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/17a843f72f484efdb3ae4d17602a5409/artifacts
+end_time: 1712508286864
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 17a843f72f484efdb3ae4d17602a5409
+run_name: brawny-seal-183
+run_uuid: 17a843f72f484efdb3ae4d17602a5409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508285792
+status: 3
+tags: []
+user_id: dj

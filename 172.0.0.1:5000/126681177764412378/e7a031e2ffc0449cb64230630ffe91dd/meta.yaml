@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/e7a031e2ffc0449cb64230630ffe91dd/artifacts
+end_time: 1712507795431
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: e7a031e2ffc0449cb64230630ffe91dd
+run_name: redolent-mouse-331
+run_uuid: e7a031e2ffc0449cb64230630ffe91dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507794352
+status: 3
+tags: []
+user_id: dj

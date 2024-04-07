@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/2b8ccbf5238c47bebc8352aa26f0aea9/artifacts
+end_time: 1712509211804
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 2b8ccbf5238c47bebc8352aa26f0aea9
+run_name: salty-grouse-292
+run_uuid: 2b8ccbf5238c47bebc8352aa26f0aea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509210798
+status: 3
+tags: []
+user_id: dj

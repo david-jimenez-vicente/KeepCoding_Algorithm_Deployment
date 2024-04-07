@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/427b98bb7e3d4f9f938c2d64f1ecbedf/artifacts
+end_time: 1712508279187
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 427b98bb7e3d4f9f938c2d64f1ecbedf
+run_name: orderly-fawn-752
+run_uuid: 427b98bb7e3d4f9f938c2d64f1ecbedf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508278085
+status: 3
+tags: []
+user_id: dj

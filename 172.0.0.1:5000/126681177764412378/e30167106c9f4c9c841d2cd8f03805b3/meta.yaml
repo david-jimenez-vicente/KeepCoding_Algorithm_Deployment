@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/e30167106c9f4c9c841d2cd8f03805b3/artifacts
+end_time: 1712508269133
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: e30167106c9f4c9c841d2cd8f03805b3
+run_name: fortunate-hen-448
+run_uuid: e30167106c9f4c9c841d2cd8f03805b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508268039
+status: 3
+tags: []
+user_id: dj

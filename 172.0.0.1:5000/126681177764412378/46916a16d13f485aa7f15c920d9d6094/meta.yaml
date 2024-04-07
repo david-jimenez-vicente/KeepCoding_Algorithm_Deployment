@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/46916a16d13f485aa7f15c920d9d6094/artifacts
+end_time: 1712509367888
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 46916a16d13f485aa7f15c920d9d6094
+run_name: fun-rat-507
+run_uuid: 46916a16d13f485aa7f15c920d9d6094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509366855
+status: 3
+tags: []
+user_id: dj

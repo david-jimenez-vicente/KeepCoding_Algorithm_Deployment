@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/606b2ceb21a240a7a535197085431c33/artifacts
+end_time: 1712509509012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 606b2ceb21a240a7a535197085431c33
+run_name: unleashed-mole-745
+run_uuid: 606b2ceb21a240a7a535197085431c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509507985
+status: 3
+tags: []
+user_id: dj

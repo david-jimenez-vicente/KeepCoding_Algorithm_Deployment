@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/43d585c5c27e40bcbc87c11d76f2e60c/artifacts
+end_time: 1712507778707
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 43d585c5c27e40bcbc87c11d76f2e60c
+run_name: upbeat-conch-309
+run_uuid: 43d585c5c27e40bcbc87c11d76f2e60c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507777675
+status: 3
+tags: []
+user_id: dj

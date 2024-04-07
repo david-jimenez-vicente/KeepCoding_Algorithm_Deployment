@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/138b87a799ee461dae0ce3a7abef58ea/artifacts
+end_time: 1712509218904
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 138b87a799ee461dae0ce3a7abef58ea
+run_name: secretive-asp-938
+run_uuid: 138b87a799ee461dae0ce3a7abef58ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509217879
+status: 3
+tags: []
+user_id: dj

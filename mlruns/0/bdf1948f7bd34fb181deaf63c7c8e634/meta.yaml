@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/bdf1948f7bd34fb181deaf63c7c8e634/artifacts
+deleted_time: 1712356468219
+end_time: 1712355328220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bdf1948f7bd34fb181deaf63c7c8e634
+run_name: Practica
+run_uuid: bdf1948f7bd34fb181deaf63c7c8e634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712355328211
+status: 3
+tags: []
+user_id: dj

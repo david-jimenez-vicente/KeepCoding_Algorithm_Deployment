@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/9ffcafc5dace4caba29f4bce0fb8fc25/artifacts
+end_time: 1712507855701
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 9ffcafc5dace4caba29f4bce0fb8fc25
+run_name: merciful-kite-649
+run_uuid: 9ffcafc5dace4caba29f4bce0fb8fc25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507854677
+status: 3
+tags: []
+user_id: dj

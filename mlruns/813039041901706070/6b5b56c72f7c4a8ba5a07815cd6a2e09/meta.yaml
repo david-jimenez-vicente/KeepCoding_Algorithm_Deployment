@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/813039041901706070/6b5b56c72f7c4a8ba5a07815cd6a2e09/artifacts
+end_time: 1712524028026
+entry_point_name: ''
+experiment_id: '813039041901706070'
+lifecycle_stage: active
+run_id: 6b5b56c72f7c4a8ba5a07815cd6a2e09
+run_name: languid-eel-195
+run_uuid: 6b5b56c72f7c4a8ba5a07815cd6a2e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712524026901
+status: 3
+tags: []
+user_id: dj

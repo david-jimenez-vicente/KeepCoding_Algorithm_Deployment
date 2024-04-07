@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/4a2b29cd22dd45cfa87014c40ba5bdea/artifacts
+end_time: 1712509506973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a2b29cd22dd45cfa87014c40ba5bdea
+run_name: redolent-donkey-581
+run_uuid: 4a2b29cd22dd45cfa87014c40ba5bdea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509505965
+status: 3
+tags: []
+user_id: dj

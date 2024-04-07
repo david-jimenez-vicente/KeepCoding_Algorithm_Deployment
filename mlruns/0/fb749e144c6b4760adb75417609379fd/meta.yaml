@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/fb749e144c6b4760adb75417609379fd/artifacts
+deleted_time: 1712509545532
+end_time: 1712509353500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb749e144c6b4760adb75417609379fd
+run_name: peaceful-robin-111
+run_uuid: fb749e144c6b4760adb75417609379fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509353330
+status: 4
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/e0c1fa51546443db93a92997bae6fbfe/artifacts
+end_time: 1712508604150
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: e0c1fa51546443db93a92997bae6fbfe
+run_name: resilient-whale-27
+run_uuid: e0c1fa51546443db93a92997bae6fbfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508603050
+status: 4
+tags: []
+user_id: dj

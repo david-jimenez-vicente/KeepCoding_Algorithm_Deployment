@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/5f120d7edab6471f997bf16f2cd0e066/artifacts
+end_time: 1712507872319
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 5f120d7edab6471f997bf16f2cd0e066
+run_name: clean-deer-191
+run_uuid: 5f120d7edab6471f997bf16f2cd0e066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507871220
+status: 3
+tags: []
+user_id: dj

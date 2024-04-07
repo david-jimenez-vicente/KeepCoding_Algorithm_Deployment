@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/2b8a69f5ef26409ab43aaa3649fb0f2b/artifacts
+end_time: 1712507862941
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 2b8a69f5ef26409ab43aaa3649fb0f2b
+run_name: salty-moth-427
+run_uuid: 2b8a69f5ef26409ab43aaa3649fb0f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507861865
+status: 3
+tags: []
+user_id: dj

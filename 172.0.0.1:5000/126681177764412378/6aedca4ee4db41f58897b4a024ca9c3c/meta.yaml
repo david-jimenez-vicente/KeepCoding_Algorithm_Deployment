@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/6aedca4ee4db41f58897b4a024ca9c3c/artifacts
+end_time: 1712507782846
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 6aedca4ee4db41f58897b4a024ca9c3c
+run_name: unruly-sheep-692
+run_uuid: 6aedca4ee4db41f58897b4a024ca9c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507781824
+status: 3
+tags: []
+user_id: dj

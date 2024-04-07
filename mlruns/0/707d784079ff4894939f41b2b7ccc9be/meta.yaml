@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/0/707d784079ff4894939f41b2b7ccc9be/artifacts
+end_time: 1712509513092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 707d784079ff4894939f41b2b7ccc9be
+run_name: unruly-boar-628
+run_uuid: 707d784079ff4894939f41b2b7ccc9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509512062
+status: 3
+tags: []
+user_id: dj

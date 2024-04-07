@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1712448896913
+current_stage: Staging
+description: This model is a random forest classifier for the breast cancer dataset
+  from sklearn.
+last_updated_timestamp: 1712449102022
+name: cancer-model
+run_id: 8678e7a74b1a403e85666acdc122b79f
+run_link: null
+source: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/347238938897332170/8678e7a74b1a403e85666acdc122b79f/artifacts/cancer-model
+status: READY
+status_message: null
+storage_location: file:///Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/mlruns/347238938897332170/8678e7a74b1a403e85666acdc122b79f/artifacts/cancer-model
+user_id: null
+version: 2

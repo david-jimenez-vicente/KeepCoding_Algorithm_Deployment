@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/537dc19d335f4f788742e11e27ac3fde/artifacts
+end_time: 1712507801844
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 537dc19d335f4f788742e11e27ac3fde
+run_name: learned-grub-567
+run_uuid: 537dc19d335f4f788742e11e27ac3fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712507800789
+status: 3
+tags: []
+user_id: dj

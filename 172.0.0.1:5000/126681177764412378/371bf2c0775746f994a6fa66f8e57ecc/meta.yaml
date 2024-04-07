@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/371bf2c0775746f994a6fa66f8e57ecc/artifacts
+end_time: 1712508271398
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 371bf2c0775746f994a6fa66f8e57ecc
+run_name: burly-seal-499
+run_uuid: 371bf2c0775746f994a6fa66f8e57ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508270237
+status: 3
+tags: []
+user_id: dj

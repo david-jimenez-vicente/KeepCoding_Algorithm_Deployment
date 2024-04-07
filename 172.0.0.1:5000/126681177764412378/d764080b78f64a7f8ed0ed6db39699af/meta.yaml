@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/d764080b78f64a7f8ed0ed6db39699af/artifacts
+end_time: 1712509372150
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: d764080b78f64a7f8ed0ed6db39699af
+run_name: intrigued-mule-984
+run_uuid: d764080b78f64a7f8ed0ed6db39699af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509371140
+status: 3
+tags: []
+user_id: dj

@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/9395a8fc57d7434db5d4681e1b797fbc/artifacts
+end_time: 1712508993745
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: 9395a8fc57d7434db5d4681e1b797fbc
+run_name: hilarious-bird-340
+run_uuid: 9395a8fc57d7434db5d4681e1b797fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508992699
+status: 3
+tags: []
+user_id: dj

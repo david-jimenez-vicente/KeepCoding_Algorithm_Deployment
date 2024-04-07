@@ -1,0 +1,15 @@
+artifact_uri: /Users/dj/Documents/GitHub/KeepCoding_Algorithm_Deployment/172.0.0.1:5000/126681177764412378/bb639fc5d4c64daba02f2065c83205b0/artifacts
+end_time: 1712508994742
+entry_point_name: ''
+experiment_id: '126681177764412378'
+lifecycle_stage: active
+run_id: bb639fc5d4c64daba02f2065c83205b0
+run_name: secretive-frog-905
+run_uuid: bb639fc5d4c64daba02f2065c83205b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712508993746
+status: 4
+tags: []
+user_id: dj
