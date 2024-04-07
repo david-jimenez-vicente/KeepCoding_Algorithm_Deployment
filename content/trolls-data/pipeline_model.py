@@ -30,7 +30,7 @@ def generate_tokenizer(train_csv, val_csv, test_csv, job_dir):
     tokenizer.fit_on_texts(x_train)
 
     # Guardar el tokenizer como un archivo pickle
-    tokenizer_path = os.path.join(job_dir, 'dp_model', 'tokenizer.pkl')
+    tokenizer_path = os.path.join(job_dir, 'tokenizer.pkl')
     with open(tokenizer_path, 'wb') as handle:
         pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
@@ -74,7 +74,8 @@ def train_model(epochs, job_dir, train_csv, val_csv, test_csv):
 
     model.fit(train_sequences, y_train, validation_data=(val_sequences, y_val), epochs=epochs)
 
-    model.save(os.path.join(job_dir, 'dp_model'))
+    #model.save(os.path.join(job_dir, 'dp_model'))
+    model.save(os.path(job_dir))
 
     loss, accuracy = model.evaluate(test_sequences, y_test)
 
@@ -87,7 +88,7 @@ class MyModel(tf.keras.Model):
     def __init__(self):
         super(MyModel, self).__init__()
         # Definir las capas del modelo
-        self.dense1 = tf.keras.layers.Dense(64, activation='relu')
+        self.dense1 = tf.keras.layers.Dense(32, activation='relu')
         self.dense2 = tf.keras.layers.Dense(1, activation='sigmoid')
 
     def call(self, inputs):
