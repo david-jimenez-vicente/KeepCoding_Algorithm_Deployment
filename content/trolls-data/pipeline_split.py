@@ -24,7 +24,7 @@ STEMMER = SnowballStemmer("english")
 TEXT_CLEANING_RE = "@\S+|https?:\S+|http?:\S|[^A-Za-z0-9]+"
 
 class CustomCoder(Coder):
-    """Custom coder utilizado para ller y escribir strings. Realiza una serie de tranformaciones entre codificaciones"""
+    """Custom coder utilizado para leer y escribir strings. Realiza una serie de tranformaciones entre codificaciones"""
 
     def __init__(self, encoding: str):
         self.enconding = encoding
